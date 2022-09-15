@@ -1,0 +1,14 @@
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\bin\Debug\net6.0\GenericDataAccess.Data.deps.json
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\bin\Debug\net6.0\GenericDataAccess.Data.runtimeconfig.json
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\bin\Debug\net6.0\GenericDataAccess.Data.dll
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\bin\Debug\net6.0\GenericDataAccess.Data.pdb
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\GenericDataAccess.Data.csproj.AssemblyReference.cache
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\GenericDataAccess.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\GenericDataAccess.Data.AssemblyInfoInputs.cache
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\GenericDataAccess.Data.AssemblyInfo.cs
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\GenericDataAccess.Data.csproj.CoreCompileInputs.cache
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\GenericDataAccess.Data.dll
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\refint\GenericDataAccess.Data.dll
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\GenericDataAccess.Data.pdb
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\GenericDataAccess.Data.genruntimeconfig.cache
+C:\Dev\GIT\GenericDataAccess\GenericDataAccess\GenericDataAccess.Data\obj\Debug\net6.0\ref\GenericDataAccess.Data.dll
